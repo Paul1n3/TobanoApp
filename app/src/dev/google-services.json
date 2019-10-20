@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1020723316466",
+    "firebase_url": "https://tobanodev.firebaseio.com",
+    "project_id": "tobanodev",
+    "storage_bucket": "tobanodev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020723316466:android:a08df50dfa851201",
+        "android_client_info": {
+          "package_name": "net.tobano.quitsmoking.app.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020723316466-2u8980b7ho5ul9uvfp7pedo8f99tsh2c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.tobano.quitsmoking.app.dev",
+            "certificate_hash": "7fb7f74b98ac2e40f7e6ecbdd5df5eaed8cf7226"
+          }
+        },
+        {
+          "client_id": "1020723316466-jplh00hvqu4h0o4ikdqn69v7c33hjl6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDogH15KhGOgv9LFXAknZKK1ATCWiP3Pro"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020723316466-jplh00hvqu4h0o4ikdqn69v7c33hjl6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
